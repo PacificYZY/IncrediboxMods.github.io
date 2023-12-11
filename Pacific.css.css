@@ -1,0 +1,90 @@
+#icon-overflow
+{
+    position: absolute;
+    top:10%;
+    left:10%;
+    overflow-y: auto;
+    width:80%;
+    height:80%;
+    /*border:thin solid black;*/
+    border-radius: 12px;
+    background: #FFFFFF;
+    box-shadow: inset 6px 6px 12px #acacac,
+                inset -6px -6px 12px #ffffff;
+}
+#icons
+{
+    margin-top:30px;
+    position: absolute;
+    left:10%;
+    width:80%;
+    /*border:thin solid black;*/
+}
+.icon
+{
+    display:inline-block;
+    text-align: center;
+    width:100px;
+    /*border:thin solid black;*/
+}
+.icon-text
+{
+    width:100%;
+    height:50px;
+    /*border:thin solid black;*/
+}
+.img-icon
+{
+    width:100px;
+    height:width;
+    border-radius: 20%;
+    background: #e0e0e0;
+    box-shadow:  6px 6px 12px #acacac,
+                 -6px -6px 12px #ffffff;
+}
+.text
+{
+    width:100%;
+    text-align:center;
+    text-transform:uppercase;
+    font-family:ralewaymedium,Sans-Serif;
+    font-size:10px;
+    letter-spacing:.7px;
+    color:#828282;
+}
+#title
+{
+    font-size:18px;
+}
+.but-icon
+{
+    padding: 0;
+    background-color: transparent;
+    border:none;
+}
+.but-but
+{
+    padding: 0;
+    background-color: transparent;
+    border:none;
+    border-radius: 50%;
+    background: #e0e0e0;
+    box-shadow:  6px 6px 12px #acacac,
+                 -6px -6px 12px #ffffff;
+}
+.img-but
+{
+    
+}
+#but
+{
+    position: absolute;
+    top:10%;
+    left:92%;
+}
+.dialog
+{
+    border-radius: 12px;
+    background: #FFFFFF;
+    border:none;
+}
